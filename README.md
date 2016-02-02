@@ -2,11 +2,11 @@
 Background research and prototypes for the minimally viable prototype
 
 Priority list:
-- [ ] Talk with Dr. Chidubem Iloabachie and discuss our project specifically:
-  - [ ] Viability of our various product designs 
-  - [ ] Plausible ways to test and collect data using our device
+- [x] Talk with Dr. Chidubem Iloabachie and discuss our project specifically:
+  - [x] Viability of our various product designs 
+  - [x] Plausible ways to test and collect data using our device
   - [ ] Possible grants/funding opportunities
-  - [ ] Resources that can be used
+  - [x] Resources that can be used
   
 - [ ] Construct new design based on Dr. Iloabachie's advice
   - [ ] CAD design
