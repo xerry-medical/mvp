@@ -33,3 +33,13 @@ so the cylindrical idea might be ideal. But flexibility is very important.
 
 How important is pliability: Very important
 
+There is a tradeoff between flexibility and visibility
+
+Testing environments: Playdough inside a fetal pig - need to do a qualitative experiment - there needs to be a pressure 
+number that is known, inflation with air
+
+Dr. Strauss - radiologist in charge of biomedical engineering does things CBID
+
+
+
+
